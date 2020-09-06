@@ -1,4 +1,4 @@
-# serverless-offline-dynamodb-streams
+# serverless-offline-dynamodb-streams debug
 
 This Serverless-offline-dynamodb-streams plugin emulates AWS λ and DynamoDBStreams on your local machine. To do so, it listens DynamoDBStreams stream and invokes your handlers.
 
