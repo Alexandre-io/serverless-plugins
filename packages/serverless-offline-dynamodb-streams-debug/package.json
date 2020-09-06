@@ -1,5 +1,5 @@
 {
-  "name": "serverless-offline-dynamodb-streams",
+  "name": "serverless-offline-dynamodb-streams-debug",
   "version": "4.1.2",
   "description": "Emulate AWS λ and DynamoDB streams locally when developing your Serverless project",
   "main": "src",
@@ -34,5 +34,6 @@
     "kinesis",
     "dynamodb",
     "lambda"
-  ]
+  ],
+  "gitHead": "502df9183cc5c4d385e6721c32225c996246397c"
 }
